@@ -1,0 +1,12 @@
+# 编译输出
+*.o
+*.exe
+*.out
+/code/**/build/
+/code/**/cmake-build-*/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
